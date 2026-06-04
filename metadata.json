@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Photo Archive Viewer",
+  "description": "A modern, cinematic web application that connects to any public GitHub repository to visualize picture folders as albums with EXIF metadata parsing, chronological timelines, interactive Leaflet mapping, and server-proxied Gemini AI tagging updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
